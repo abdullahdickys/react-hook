@@ -1,5 +1,4 @@
-# Bicara Hook Series  
-This repo contain resource of **Bicara Hook**.
+# React Hook Series  
 [Youtube Series for Learn React Hook](https://www.youtube.com/SastraNababan?sub_confirmation=1)
 
 ## Table Of Content
